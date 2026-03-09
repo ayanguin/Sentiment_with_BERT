@@ -22,15 +22,15 @@ Dataset → Train/Test Split → Tokenization → BERT Training → Evaluation �
 
 ### Sentiment Distribution
 
-![Sentiment Distribution](plots/sentiment_distribution.png)
+![Sentiment Distribution](sentiment_distribution.png)
 
 ### True vs Predicted Distribution
 
-![True vs Predicted](plots/true_vs_predicted.png)
+![True vs Predicted](true_vs_predicted.png)
 
 ### Training Loss Curve
 
-![Training Loss](plots/training_loss.png)
+![Training Loss](training_loss.png)
 
 ---
 

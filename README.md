@@ -139,6 +139,12 @@ Matplotlib
 
 ---
 
+## Academic Review
+
+This project was developed as part of an independent study and is open to feedback and suggestions for improvement.
+
+---
+
 ## Author
 
 Ayan Guin
